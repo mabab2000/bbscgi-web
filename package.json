@@ -1,8 +1,9 @@
 {
-  "name": "saving",
+  "name": "bbscgi",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "BBSCGI — Bible Based Saving and Credit Group for Investing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

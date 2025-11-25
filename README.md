@@ -1,6 +1,6 @@
-# SaveTracker - Savings Management System
+# BBSCGI — Bible Based Saving and Credit Group for Investing
 
-A professional, modern web application for managing personal savings goals, tracking transactions, and monitoring financial progress.
+A professional, modern web application for managing savings, credit and community investments under the BBSCGI initiative.
 
 ## 🌟 Features
 
@@ -140,7 +140,8 @@ npm run build
 ### Environment Variables
 
 ```env
-VITE_APP_NAME=SaveTracker
+VITE_APP_NAME=BBSCGI
+VITE_APP_FULLNAME="Bible Based Saving and Credit Group for Investing"
 VITE_APP_VERSION=1.0.0
 NODE_ENV=production
 ```
@@ -163,4 +164,4 @@ For questions or support, please contact the development team or open an issue o
 
 ---
 
-**SaveTracker** - Professional savings management made simple.
+**BBSCGI** — Bible Based Saving and Credit Group for Investing.
